@@ -31,6 +31,8 @@
     justify-content: center;
     margin-top: 1rem;
     font-size: 1.5rem;
+    border-bottom: 2px solid #6e64a5;
+    margin-bottom: 2rem;
 }
 
 .winner{
@@ -70,13 +72,13 @@
     margin: 2rem;
 }
 .resetButton:hover{
-    letter-spacing: 0.25rem;
+    background: #47416b;
 }
 .resetButton:focus{
     outline: none;
 }
 .resetButton:active{
-    background: #48416d;
+    background: #332e4d;
 }
 body{
     background-color: #222222;
